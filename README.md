@@ -10,6 +10,6 @@ This repository aims to provide an introduction to creating 3D physics simulatio
 - Create 3D physics simulations
   
 ### Set up environment for the project
-chmod +x setup.sh
-./setup.sh
+$ chmod +x setup.sh
+$ ./setup.sh
 
