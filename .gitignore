@@ -1,2 +1,5 @@
 # Exclude venv
 testEnv/
+
+# Exclude .DS_Store
+.DS_Store
